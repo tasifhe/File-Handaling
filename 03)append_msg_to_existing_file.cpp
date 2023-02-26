@@ -1,4 +1,4 @@
-//* append message to existing file
+//* Append message to existing file
 #include <fstream>
 #include <iostream>
 #include <string>
